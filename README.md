@@ -96,3 +96,11 @@ Replace the placeholder divs with actual images by modifying the HTML and adding
 
 This project is a redesign for Anoop Singh & Associates.
 
+## Copyright
+
+Copyright © 2025 Anoop Singh & Associates. All Rights Reserved.
+
+This website and its content are protected by copyright laws. For detailed copyright information and terms of use, please see the [COPYRIGHT](COPYRIGHT) file.
+
+Unauthorized reproduction or distribution of any material from this website is strictly prohibited.
+
