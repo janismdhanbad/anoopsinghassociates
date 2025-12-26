@@ -90,6 +90,13 @@ const projects = [
         category: 'commercial',
         highlight: true,
         images: ['images/portfolio/Royal-Court-Neemrana.jpg']
+    },
+    {
+        date: '2025-12-23',
+        name: 'Gulab Jain',
+        category: 'interior',
+        highlight: true,
+        images: ['images/portfolio/Royal-Court-Neemrana.jpg']
     }
 ];
 
